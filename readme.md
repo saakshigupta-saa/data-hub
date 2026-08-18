@@ -1,4 +1,4 @@
-# Data Hub — RESTful API Server
+# Data Hub — RESTFUL API Server
 
 A backend REST API built with **Node.js and Express.js** as part of the Fullstack Developer sprint.
 
